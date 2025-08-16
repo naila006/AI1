@@ -74,10 +74,3 @@ print(mae)
 print(mse)
 print(rmse)
 print(r2)
-
-
-
-
-
-
-
